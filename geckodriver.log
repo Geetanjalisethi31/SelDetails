@@ -1,0 +1,20 @@
+1694459556340	geckodriver	INFO	Listening on 127.0.0.1:60672
+1694459559413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileW7H9nE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694459559950	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694459560158	Marionette	INFO	Listening on port 60684
+WebDriver BiDi listening on ws://127.0.0.1:60673
+Read port: 60684
+1694459560499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60673/devtools/browser/8f520caf-76b3-4514-87d5-437ce03b8f60
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.17, line 2: TypeError: document.querySelector(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-DWCCJLKX3X, line 484: Script terminated by timeout at:
+aa.oh@https://www.googletagmanager.com/gtag/js?id=G-DWCCJLKX3X:484:89
+get@https://www.googletagmanager.com/gtag/js?id=G-DWCCJLKX3X:482:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-DWCCJLKX3X:482:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-DWCCJLKX3X:482:412
+
+1694460048620	Marionette	INFO	Stopped listening on port 60684
+Dynamically enable window occlusion 1

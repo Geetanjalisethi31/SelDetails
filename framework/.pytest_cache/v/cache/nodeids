@@ -1,0 +1,13 @@
+[
+  "Test_Gmail.py::test_Gmail::test_gmail_title",
+  "Test_google.py::test_Google::test_Gmail",
+  "Test_google.py::test_Google::test_Title",
+  "Test_google.py::test_Google::test_search",
+  "Test_googleusing set up and tear down.py::test_Google::test_Gmail",
+  "Test_googleusing set up and tear down.py::test_Google::test_Title",
+  "Test_googleusing set up and tear down.py::test_Google::test_search",
+  "Test_keep me login check box.py::test_Acti_time::test_Keep_me_login",
+  "test_demo.py::TestDemoA::test_sampl",
+  "test_login_testcaseID.py::TestLoginValid::test_username_textbox",
+  "test_login_testcaseID.py::Testlogin_valid::test_username_textbox"
+]
